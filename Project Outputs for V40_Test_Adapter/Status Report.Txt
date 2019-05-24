@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [V40_Test_Adapter.PrjPcb]
+   Generated File[V40_Test_Adapter.TXT]
+   Generated File[V40_Test_Adapter.LDP]
+   Generated File[V40_Test_Adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:18:22 PM On 5/24/2019

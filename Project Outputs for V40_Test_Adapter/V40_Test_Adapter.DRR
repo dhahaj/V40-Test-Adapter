@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: V40_Test_Adapter.PcbDoc   5/24/2019  12:18:22 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : V40_Test_Adapter.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T2      35mil (0.889mm)         +/-3mil (0.076mm)                 Round             4         PTH        0.00inch (0.00mm)
+T3      38mil (0.965mm)         +/-3mil (0.076mm)                 Round             4         PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)         +/-3mil (0.076mm)                 Round             7         PTH        0.00inch (0.00mm)
+T5      79mil (2mm)             +/-3mil (0.076mm)                 Round             7         PTH        0.00inch (0.00mm)
+T6      134mil (3.4mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              58
+
+Total Processing Time (hh:mm:ss) : 00:00:00
